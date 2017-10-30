@@ -17,6 +17,10 @@ Step 2: Download nodejs.php and put it inside: /usr/local/cwpsrv/htdocs/resource
 
 Step 3: Navigate your web browser to http://your-domain.tld:2030/, log in with root, go to Developers Menu -> Node.js Installer, choose the version you like of Node.js and press "Install Node.js". 
 
-Step 4: Check Node.js and NPM versions: Node.js: node -v NPM: npm -v 
+Step 4: Check Node.js and NPM versions: 
+
+Node.js: node -v 
+
+NPM: npm -v 
 
 Step 5: Have fun!
