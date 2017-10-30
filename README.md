@@ -1,4 +1,5 @@
 # CWP-Node.js
+CWP Node.js Installer
 https://www.born2host.com
 
 CWP Node.js Installer
@@ -15,7 +16,7 @@ Step 1: Open /usr/local/cwpsrv/htdocs/resources/admin/include/3rdparty.php and p
 
 Step 2: Download nodejs.php and put it inside: /usr/local/cwpsrv/htdocs/resources/admin/modules/ 
 
-Step 3: Navigate your web browser to http://your-domain.tld:2030/, log in with root, go to Developers Menu -> Node.js Installer, choose the version you like of Node.js and press "Install Node.js". 
+Step 3: Navigate your web browser to http://your-domain.tld:2030/ or https://your-domain.tld:2031, log in with root, go to Developers Menu -> Node.js Installer, choose the version you like of Node.js and press "Install Node.js". 
 
 Step 4: Check Node.js and NPM versions: 
 
