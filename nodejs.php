@@ -2,7 +2,7 @@
         if (isset($_POST['installNode'])) {
                 $setup = null;
                 $setup = $_POST['setup'];
-                $command = "curl --silent --location https://rpm.nodesource.com/setup_".$setup.".x | sudo bash - && yum -y install gcc-c++ make && y$
+                $command = "curl --silent --location https://rpm.nodesource.com/setup_".$setup.".x | sudo bash - && yum -y install gcc-c++ make && yum -y install nodejs";
                 echo '<pre>';
                 echo shell_exec($command);
                 echo '</pre>';
