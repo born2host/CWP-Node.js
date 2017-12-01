@@ -12,7 +12,7 @@ How to install
 
 Step 1: Open /usr/local/cwpsrv/htdocs/resources/admin/include/3rdparty.php and put inside:
 
-<li><a href="index.php?module=nodejs"><span class="icon16 icomoon-icon-arrow-right-3"></span>Node.js Installer</a></li>
+````<li><a href="index.php?module=nodejs"><span class="icon16 icomoon-icon-arrow-right-3"></span>Node.js Installer</a></li>
 
 Step 2: Download nodejs.php and put it inside: /usr/local/cwpsrv/htdocs/resources/admin/modules/ 
 
